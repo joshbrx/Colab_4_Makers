@@ -8,7 +8,7 @@ Indice temático:
   - Tipos de variables (enteros, fotantes, booleanos, cadenas)
   - Funciones predefinidas (print, input, abs, type, etc)
   - Ciclos y estructuras (for, while, if, else)
-  - Funciones (simples y con argumentos opcionales)
+  - Definiendo funciones (simples y con argumentos opcionales)
   - Arreglos (Listas, tuplas, diccionarios)
 - Importando librerías
   - ¿Cómo llamar una librería?
