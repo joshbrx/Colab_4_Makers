@@ -2,7 +2,7 @@
 Curso introductorio de Google Colab con python (v.3) para los estudiantes del laboratorio de electromagnetismo "for makers".
 
 Indice temático:
-- Introducción a Google Colab como servicio gratuito (Código, escritura, visualizaciones, etc.)
+- Bienvenida a Google Colab (Código, escritura, visualizaciones, simulaciones, etc.)
 - Un repaso por Python 3 
   - Uso como calculadora (operadores y asignación de variables)
   - Tipos de variables (enteros, fotantes, booleanos, cadenas)
