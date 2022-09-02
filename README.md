@@ -1,5 +1,5 @@
-# Intro_a_colab_py3
-Curso introductorio de Google Colab con python (v.3) para los estudiantes del laboratorio de electromagnetismo "for makers".
+# ***Colab 4 Makers***
+## Curso introductorio de Google Colab con python (v.3) para los estudiantes del laboratorio de electromagnetismo "for makers".
 
 Indice temático:
 - Bienvenida a Google Colab (Código, escritura, visualizaciones, simulaciones, etc.)
